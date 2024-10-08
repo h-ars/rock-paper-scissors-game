@@ -1,0 +1,2 @@
+# rock-paper-scissors-game
+This is a Rock-Paper-Scissors game made using HTML5 and CSS3 for the frontend ; Javascript for the backend's logic 
